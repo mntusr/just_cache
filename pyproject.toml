@@ -7,7 +7,7 @@ name = "just_cache"
 version = "0.1.0"
 dependencies = []
 requires-python = ">= 3.10"
-description="A simple pure Python implementation of depth-related calculations."
+description="A Pickle-based package to cache results, mostly for data analysis tasks."
 readme = "README.md"
 license = {text = "MIT License"}
 classifiers = [
